@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidad.LiquidacionImpuesto">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAwAAQAAAgAAA0EAAAAAAAAAABAAAIAgIAgAAgAQA=</HashCode>
+      <FileName>LiquidacionImpuesto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidad.NoResponsableIVA">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAA=</HashCode>
+      <FileName>NoResponsableIVA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidad.RegimenSimpleTributacion">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAA=</HashCode>
+      <FileName>RegimenSimpleTributacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidad.ResponsableIVA">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAA=</HashCode>
+      <FileName>ResponsableIVA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

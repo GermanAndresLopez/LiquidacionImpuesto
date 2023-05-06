@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logica.LiquidacionBuscarResponse">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAEIAAAAAA=</HashCode>
+      <FileName>LiquidacionBuscarResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LiquidacionConsultaResponse">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEIAAAAAA=</HashCode>
+      <FileName>LiquidacionConsultaResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LiquidacionService">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAQAABAAQACAAgAAAACAQhQAAAAAAAAAAAA=</HashCode>
+      <FileName>LiquidacionService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.PersonaNoEncontradoException">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonaNoEncontradoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidad.LiquidacionImpuesto" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Entidad.NoResponsableIVA" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Entidad.RegimenSimpleTributacion" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Entidad.ResponsableIVA" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Datos.LiquidacionRepository">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
